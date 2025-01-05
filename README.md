@@ -1,4 +1,4 @@
-# ZOMATO-Restaurants-Analysis-Dashboard-in-Power-BI
+# ZOMATO-Restaurants-Sales-Analysis-Dashboard-in-Power-BI
 The dataset provides a mix of geographical, operational, and customer feedback data.
 
 It can be used to analyze restaurant distribution, pricing strategies, customer preferences, and trends over time.
